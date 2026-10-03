@@ -1,6 +1,6 @@
 # Hi, I'm X-F1REBALL-X
 
-PlayStation homebrew. Jailbreak hosts, loaders, and Linux for PS4 and PS5.
+Developer. PlayStation homebrew: jailbreak hosts, loaders, and Linux for PS4 and PS5.
 
 ## PS5
 
