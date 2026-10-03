@@ -13,5 +13,5 @@ Developer. PlayStation homebrew: jailbreak hosts, loaders, and Linux for PS4 and
 
 | Project | What it does |
 |---|---|
-| [ps4jb](https://gitlab.com/X-F1REBALL-X/ps4jb) | PS4 jailbreak host. |
+| [PS4 Host Jailbreak](https://gitlab.com/X-F1REBALL-X/PS4HostJailbreak) | Browser jailbreak host. Firmwares 6.00 through 13.52. |
 | [PS4-Linux](https://gitlab.com/X-F1REBALL-X/PS4-Linux) | Arch Linux KDE on PS4. Tested on CUH-7116B Pro and CUH-2116A Slim, firmware 13.52. |
