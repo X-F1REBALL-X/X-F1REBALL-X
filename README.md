@@ -1,16 +1,1 @@
-# Hi, I'm X-F1REBALL-X
-
-Developer. PlayStation homebrew: jailbreak hosts, loaders, and Linux for PS4 and PS5.
-
-## PS5
-
-| Project | What it does |
-|---|---|
-| [WK Dual Payload](https://gitlab.com/X-F1REBALL-X/wk-dual-payload) | Homescreen jailbreak. Installs Elf Launcher and Payload Manager if they are missing. |
-| [Elf Launcher](https://gitlab.com/X-F1REBALL-X/ElfLauncher) | ELF payload launcher, homescreen tile and browser page. |
-
-## PS4
-
-| Project | What it does |
-|---|---|
-| [PS4-Linux](https://gitlab.com/X-F1REBALL-X/PS4-Linux) | Arch Linux KDE on PS4. Tested on CUH-7116B Pro and CUH-2116A Slim, firmware 13.52. |
+IyBIaSwgSSdtIFgtRjFSRUJBTEwtWAoKRGV2ZWxvcGVyLiBQbGF5U3RhdGlvbiBob21lYnJldzogamFpbGJyZWFrIGhvc3RzLCBsb2FkZXJzLCBhbmQgTGludXggZm9yIFBTNCBhbmQgUFM1LgoKIyMgUFM1Cgp8IFByb2plY3QgfCBXaGF0IGl0IGRvZXMgfAp8LS0tfC0tLXwKfCBbV0sgRHVhbCBQYXlsb2FkXShodHRwczovL2dpdGxhYi5jb20vWC1GMVJFQkFMTC1YL3drLWR1YWwtcGF5bG9hZCkgfCBIb21lc2NyZWVuIGphaWxicmVhay4gSW5zdGFsbHMgRWxmIExhdW5jaGVyIGFuZCBQYXlsb2FkIE1hbmFnZXIgaWYgdGhleSBhcmUgbWlzc2luZy4gfAp8IFtFbGYgTGF1bmNoZXJdKGh0dHBzOi8vZ2l0bGFiLmNvbS9YLUYxUkVCQUxMLVgvRWxmTGF1bmNoZXIpIHwgRUxGIHBheWxvYWQgbGF1bmNoZXIsIGhvbWVzY3JlZW4gdGlsZSBhbmQgYnJvd3NlciBwYWdlLiB8CgojIyBQUzQKCnwgUHJvamVjdCB8IFdoYXQgaXQgZG9lcyB8CnwtLS18LS0tfAp8IFtwczRqYl0oaHR0cHM6Ly9naXRsYWIuY29tL1gtRjFSRUJBTEwtWC9wczRqYikgfCBQUzQgamFpbGJyZWFrIGhvc3QuIHwKfCBbUFM0LUxpbnV4XShodHRwczovL2dpdGxhYi5jb20vWC1GMVJFQkFMTC1YL1BTNC1MaW51eCkgfCBBcmNoIExpbnV4IEtERSBvbiBQUzQuIFRlc3RlZCBvbiBDVUgtNzExNkIgUHJvIGFuZCBDVUgtMjExNkEgU2xpbSwgZmlybXdhcmUgMTMuNTIuIHwK
