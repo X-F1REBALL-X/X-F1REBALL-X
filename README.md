@@ -6,7 +6,7 @@ Developer. PlayStation homebrew: jailbreak hosts, loaders, and Linux for PS4 and
 
 | Project | What it does |
 |---|---|
-| [WK Dual Payload](https://github.com/X-F1REBALL-X/wk-dual-payload) | Homescreen jailbreak. Installs Elf Launcher and Payload Manager if they are missing. |
+| [WK Autoloader](https://github.com/X-F1REBALL-X/WK-Autoloader) | Homescreen jailbreak. Installs Elf Launcher and Payload Manager if they are missing. |
 | [Elf Launcher](https://github.com/X-F1REBALL-X/elf-launcher) | ELF payload launcher, homescreen tile and browser page. |
 
 ## PS4
