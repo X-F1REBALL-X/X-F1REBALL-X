@@ -1,4 +1,4 @@
-# Hi, I'm X-F1REBALL-X
+<img src="img/banner.png" alt="X-F1REBALL-X">
 
 PlayStation homebrew developer. I build jailbreak hosts, payload loaders, audio tools and Linux ports for PS4 and PS5.
 
