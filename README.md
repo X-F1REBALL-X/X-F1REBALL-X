@@ -17,6 +17,6 @@ PlayStation homebrew developer. I build jailbreak hosts, payload loaders, audio 
 | [PS4 Host Jailbreak](https://github.com/X-F1REBALL-X/ps4hostjailbreak) | Browser jailbreak host, firmware 6.00 to 13.52. |
 | [PS4-Linux](https://github.com/X-F1REBALL-X/PS4-Linux) | Arch Linux KDE on PS4. Tested on CUH-7116B Pro and CUH-2116A Slim, firmware 13.52. |
 
-X: [@XxF1REBALLxX](https://x.com/XxF1REBALLxX)
+[![X](https://img.shields.io/badge/@XxF1REBALLxX-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/XxF1REBALLxX) [![Ko-fi](https://img.shields.io/badge/Support_on_Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/xf1reballx)
 
-[Support my projects on Ko-fi](https://ko-fi.com/xf1reballx). Everything stays free and open source.
+Everything stays free and open source.
